@@ -14,9 +14,9 @@ Actualmente enfocado en el **desarrollo web full stack**, aplicando buenas prác
 ### 💻 Tecnologías y herramientas
 
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP, MySQL, Symfony
+- **Backend:** PHP, MySQL, Symfony, Java
 - **Versionado:** Git, GitHub
-- **Entornos de desarrollo:** Visual Studio Code, Eclipse, Visual Studio, PhpStorm, XAMPP
+- **Entornos de desarrollo:** Visual Studio Code, Eclipse, Visual Studio, PhpStorm, XAMPP, WordPress.
 - **Sistemas:** Windows, Linux (nivel intermedio)
 
 ---
